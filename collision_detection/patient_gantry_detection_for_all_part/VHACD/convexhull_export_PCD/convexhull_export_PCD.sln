@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "convexhull_export_PCD", "convexhull_export_PCD\convexhull_export_PCD.pyproj", "{7F95E4A3-2AC5-47F0-B21C-A75A91C0A477}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F95E4A3-2AC5-47F0-B21C-A75A91C0A477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F95E4A3-2AC5-47F0-B21C-A75A91C0A477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2642DCD2-666B-43EF-BBA0-0ADA1D3141A6}
+	EndGlobalSection
+EndGlobal

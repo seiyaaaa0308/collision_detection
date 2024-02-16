@@ -24,8 +24,7 @@ In this code, Medical Robot(Convex-Hull) vs Patient(Point Cloud) is simulated.
 
 After completing processing, points that exist are inside of Convex-Hull and judged as collision point.
 
-![Collision detection](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/f02c3426-a35b-46ad-9a73-0c9d21edb344)
-
+![Collision detection](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/81ed5718-a141-440c-8345-69cd63010129)
 
 ## Author
 

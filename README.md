@@ -1,4 +1,4 @@
-# Collision Detection
+# Collision Detection Application
 
 ## DEMO
 
@@ -11,8 +11,11 @@
 ![Collision detection](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/3b4c7d2c-8f66-4b0f-9183-c780dd8243f4)
 
 ## Features
+This GUI is for simulating minimally invasive treatment using a medical robot. 
+The GUI has a DICOM viewer function, pointing function, and contact detection function. 
+We are currently developing this system with the goal of using it for safety checks before surgery.
 
-Using this code you can execute collision detection between Convex-Hull and Point Cloud.
+Using this GUI collision detection between Convex-Hull and Point Cloud is executed.
 In this code, Medical Robot(Convex-Hull) vs Patient(Point Cloud) is simulated.
 
 - There are second phases in detection method.
@@ -20,12 +23,6 @@ In this code, Medical Robot(Convex-Hull) vs Patient(Point Cloud) is simulated.
 2. Using Convex-Hull (Points outside Convex-Hull are removed)
 
 After completing processing, points that exist are inside of Convex-Hull and judged as collision point.
-
-## Requirement
-
-* open3d 0.17.0
-* numpy 1.26.0
-
 
 ## Author
 

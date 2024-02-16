@@ -2,8 +2,13 @@
 
 ## DEMO
 
-![git_ref](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/96dfbf87-6b5f-4468-a765-50313ae1bf47)
+![Setup screen](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/775e904b-a64d-4b2b-93ce-5abeac3a4e28)
 
+![Dicom viewer](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/6507780a-ca59-4560-bf8c-e98678ce1d42)
+
+![Pointing mode](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/c0a63799-07b8-4fa4-8584-830a3326a800)
+
+![Collision detection](https://github.com/seiyaaaa0308/collision_detection/assets/127831728/3b4c7d2c-8f66-4b0f-9183-c780dd8243f4)
 
 ## Features
 
